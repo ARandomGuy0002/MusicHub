@@ -1,0 +1,14 @@
+D:\Programs\MusicHubApp\Data\bin\Debug\net6.0\Data.deps.json
+D:\Programs\MusicHubApp\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Programs\MusicHubApp\Data\bin\Debug\net6.0\Data.dll
+D:\Programs\MusicHubApp\Data\bin\Debug\net6.0\Data.pdb
+D:\Programs\MusicHubApp\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Programs\MusicHubApp\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\MusicHubApp\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Programs\MusicHubApp\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Programs\MusicHubApp\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Programs\MusicHubApp\Data\obj\Debug\net6.0\Data.dll
+D:\Programs\MusicHubApp\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Programs\MusicHubApp\Data\obj\Debug\net6.0\Data.pdb
+D:\Programs\MusicHubApp\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\Programs\MusicHubApp\Data\obj\Debug\net6.0\ref\Data.dll
